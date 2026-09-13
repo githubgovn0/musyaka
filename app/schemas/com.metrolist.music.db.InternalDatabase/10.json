@@ -20,7 +20,7 @@
             "affinity": "TEXT",
             "notNull": true
           },
-          {
+          { 
             "fieldPath": "duration",
             "columnName": "duration",
             "affinity": "INTEGER",
