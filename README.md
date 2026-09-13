@@ -7,7 +7,7 @@
 ### YouTube Music client for Android
 
 <br/>
-
+ 
 <a href="https://www.blacksmith.sh">
   <img src="assets/blacksmith-powered.png" alt="CI powered by Blacksmith" width="280" />
 </a>
